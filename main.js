@@ -5,6 +5,7 @@ var obj = {
     console.log(this.name);
   },
 };
+console.log(1231231312);
 
 obj.sayName();
 

@@ -1,5 +1,4 @@
 var name = 'out';
-console.log(111);
 var obj = {
   name: 'in',
   sayName: function () {

@@ -9,5 +9,3 @@ var obj = {
 obj.sayName();
 
 obj.sayName.call();
-
-console.log('test end');

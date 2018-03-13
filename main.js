@@ -1,5 +1,5 @@
 var name = 'out';
-
+console.log(1);
 var obj = {
   name: 'in',
   sayName: function () {

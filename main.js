@@ -6,6 +6,8 @@ var obj = {
   },
 };
 
+console.log('dev');
+
 obj.sayName();
 
 obj.sayName.call();

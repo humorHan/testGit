@@ -6,6 +6,7 @@ var obj = {
   },
 };
 
+console.log('FENZHI');
 obj.sayName();
 
 obj.sayName.call();

@@ -7,6 +7,7 @@ var obj = {
 };
 
 console.log('FENZHIasd');
+
 obj.sayName();
 
 obj.sayName.call();

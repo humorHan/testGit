@@ -6,7 +6,7 @@ var obj = {
   },
 };
 
-console.log('FENZHI');
+console.log('FENZHIasd');
 obj.sayName();
 
 obj.sayName.call();

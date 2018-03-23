@@ -6,6 +6,8 @@ var obj = {
   },
 };
 
+console.log('master');
+
 obj.sayName();
 
 obj.sayName.call();

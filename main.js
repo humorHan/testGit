@@ -6,6 +6,8 @@ var obj = {
   },
 };
 
+console.log('dev dif');
+
 obj.sayName();
 
 obj.sayName.call();

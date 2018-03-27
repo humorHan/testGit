@@ -6,7 +6,7 @@ var obj = {
   },
 };
 
-console.log('str');
+console.log('test');
 
 obj.sayName();
 
